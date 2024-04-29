@@ -1,6 +1,6 @@
 ### Overview
 
-This is the Git repo for the Docker image for <code>RepoCrawler</code>. See the  <a href="https://hub.docker.com/r/inahomoronyia/repocrawler">Docker Hub page</a> for the full readme and how to use this Oocker image and for informatio regarding contributing and issues.
+This is the Git repo for the Docker image for <code>RepoCrawler</code>. See the  <a href="https://hub.docker.com/r/inahomoronyia/repocrawler">Docker Hub page</a> for the full readme, how to use this docker image, and for information regarding contributing and issues.
 
 <!--
 **RepoCrawler/repocrawler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
